@@ -1,0 +1,7 @@
+order_id,customer_name,product,total,status
+1001,Alice Chen,Wireless Mouse,59.98,Completed
+1002,Brian Lee,Standing Desk,349.00,Completed
+1003,Carol Nguyen,Notebook Set,42.50,Completed
+1004,David Kim,USB-C Hub,45.00,Refunded
+1005,Emma Brown,Ergonomic Chair,529.00,Pending
+1006,Frank Wu,Mechanical Keyboard,119.99,Completed
